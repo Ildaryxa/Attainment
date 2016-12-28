@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Attainment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="do_not_show_splash">Отключить заставку</string>
+
+    <string name="current_task">Текущие</string>
+    <string name="done_task">Выполненные</string>
+
+    <string name="dialog_editing_title">Редактирование задачи</string>
+    <string name="dialog_title">Добавление задачи</string>
+    <string name="dialog_ok">Принять</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_error_empty_title">Пожалуйста, добавьте задачу</string>
+
+    <string name="task_title">Заголовок</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+
+    <string name="dialog_removing_message">Вы уверены, что хотите удалить эту задачу?</string>
+    <string name="removed">Удалить</string>
+
+    <string name="separator_Overdue">Просроченные</string>
+    <string name="separator_Today">Сегодня</string>
+    <string name="separator_Tomorrow">Завтра</string>
+    <string name="separator_Future">В будущем</string>
+</resources>
